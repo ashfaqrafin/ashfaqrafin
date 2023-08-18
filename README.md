@@ -6,6 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfaqrafin)
 [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashfaqkhanrafin@gmail.com) -->
 
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 #### Github Stats
 
 ![ashfaqrafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfaqrafin&show_icons=true&theme=transparent)
