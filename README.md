@@ -4,15 +4,16 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 
 ### Connect with me:
 
-[![website](./img/twitter.svg)](https://twitter.com/ashfaqrafin)
+[![website](./img/twitter.svg)](https://twitter.com/ashfaqrafin#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/in/ashfaqrafin)
+[![website](./img/linkedin.svg)](https://linkedin.com/in/ashfaqrafin#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashfaqrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/codeforces.svg)](https://codeforces.com/profile/ashfaqrafin)
+[![website](./img/codeforces.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/kaggle-1.svg)](https://www.kaggle.com/ashfaqkhanrafin)
+[![website](./img/kaggle.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/leetcode.svg)](https://leetcode.com/ashfaqrafin/)
+[![website](./img/leetcode.svg)](https://leetcode.com/ashfaqrafin#gh-light-mode-only)
 
 #### Coding Stats
 
