@@ -4,8 +4,8 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 
 ### Connect with me:
 
-[![website](./img/portfolio-light.svg)](https://pending.com)
-[![website](./img/portfolio-dark.svg)](https://pending.com)
+[![website](./img/portfolio-light.svg)](https://pending.com#gh-light-mode-only)
+[![website](./img/portfolio-dark.svg)](https://pending.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ashfaqrafin#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ashfaqrafin#gh-dark-mode-only)
