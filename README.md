@@ -4,16 +4,20 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 
 ### Connect with me:
 
-[![website](./img/twitter.svg)](https://twitter.com/ashfaqrafin#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ashfaqrafin#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ashfaqrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/in/ashfaqrafin#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashfaqrafin#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashfaqrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/codeforces.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
+[![website](./img/codeforces-light.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
+[![website](./img/codeforces-dark.svg)](https://codeforces.com/profile/ashfaqrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/kaggle.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-light-mode-only)
+[![website](./img/kaggle-light.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-light-mode-only)
+[![website](./img/kaggle-dark.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/leetcode.svg)](https://leetcode.com/ashfaqrafin#gh-light-mode-only)
+[![website](./img/leetcode-light.svg)](https://leetcode.com/ashfaqrafin#gh-light-mode-only)
+[![website](./img/leetcode-dark.svg)](https://leetcode.com/ashfaqrafin#gh-dark-mode-only)
 
 #### Coding Stats
 
