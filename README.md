@@ -2,6 +2,18 @@
 
 I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in computer science at Brac University. I am in the first semester of my freshman year.
 
+### Connect with me:
+
+[![website](./img/twitter.svg)](https://twitter.com/ashfaqrafin)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://linkedin.com/in/ashfaqrafin)
+&nbsp;&nbsp;
+[![website](./img/codeforces.svg)](https://codeforces.com/profile/ashfaqrafin)
+&nbsp;&nbsp;
+[![website](./img/kaggle-1.svg)](https://www.kaggle.com/ashfaqkhanrafin)
+&nbsp;&nbsp;
+[![website](./img/leetcode.svg)](https://leetcode.com/ashfaqrafin/)
+
 #### Coding Stats
 
 <!--START_SECTION:waka-->
