@@ -27,11 +27,11 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 hrs 36 mins  ████████████████░░░░░░░░░   63.67 %
-C++          7 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.01 %
-HTML         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Ezhil        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TypeScript   17 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.23 %
+C++          10 hrs          ████████░░░░░░░░░░░░░░░░░   32.37 %
+HTML         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Python       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Ezhil        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
