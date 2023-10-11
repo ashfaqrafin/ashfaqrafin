@@ -38,3 +38,4 @@ Ezhil        0 secs          ░░░░░░░░░░░░░░░░░
 #### Github Stats
 
 ![ashfaqrafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfaqrafin&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqrafin&hide_progress=true)
