@@ -27,11 +27,11 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs           ████████████████▓░░░░░░░░   67.07 %
-Prolog       44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Ezhil        22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+C++          6 hrs 26 mins   ████████████████████▒░░░░   81.30 %
+Prolog       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Ezhil        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
