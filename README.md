@@ -27,7 +27,10 @@ I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in comp
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java    1 hr 19 mins    ████████████████████████▓   99.24 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
