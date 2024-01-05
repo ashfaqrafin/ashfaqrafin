@@ -1,6 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ashfaq Khan from Bangladesh. I am now taking an undergraduate degree in computer science at Brac University. I am in the first semester of my freshman year.
+Hi, I'm Ashfaq Khan, a computer science enthusiast from Bangladesh. I'm currently pursuing my bachelor's degree at Brac University, where I'm exploring various aspects of programming and technology. I'm passionate about learning new skills and creating innovative solutions. Check out my projects and feel free to connect with me!
+
 
 ### Connect with me:
 
