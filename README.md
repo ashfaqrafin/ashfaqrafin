@@ -28,11 +28,11 @@ Hi, I'm Ashfaq Khan, a computer science enthusiast from Bangladesh. I'm currentl
 <!--START_SECTION:waka-->
 
 ```txt
-Java         4 hrs 19 mins   ██████████████████▒░░░░░░   73.91 %
-C++          1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-Mojo         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java         3 hrs 27 mins   ████████████████▓░░░░░░░░   66.14 %
+C++          1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Lua          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Mojo         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
