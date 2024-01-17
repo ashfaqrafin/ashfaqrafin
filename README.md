@@ -28,8 +28,7 @@ Hi, I'm Ashfaq Khan, a computer science enthusiast from Bangladesh. I'm currentl
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   58 mins         ████████████████████░░░░░   79.66 %
-Lua          14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+TypeScript   1 hr 12 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
