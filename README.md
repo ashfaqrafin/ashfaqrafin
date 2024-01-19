@@ -1,15 +1,10 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<<<<<<< HEAD
 I'm a **Computer Science enthusiast** hailing from the beautiful country of Bangladesh 🇧🇩.
 Currently, I'm broadening my horizons and honing my skills at **Brac University**, where the
 world of programming and technology unfolds before me 💻.
 My passion lies in **learning new skills** and **creating innovative solutions**. I believe in
 the power of technology to change the world, and I'm excited to be a part of this journey 🚀.
-=======
-Hi, I'm Ashfaq Khan, a computer science enthusiast from Bangladesh. I'm currently pursuing my bachelor's degree at Brac University, where I'm exploring various aspects of programming and technology. I'm passionate about learning new skills and creating innovative solutions. Check out my projects and feel free to connect with me!
-
->>>>>>> origin/master
 
 ### Connect with me:
 
