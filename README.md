@@ -31,7 +31,8 @@ the power of technology to change the world, and I'm excited to be a part of thi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 12 mins    █████████████████████████   100.00 %
+TypeScript   1 hr 12 mins    ██████████████████████▒░░   88.74 %
+Markdown     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
 ```
 
 <!--END_SECTION:waka-->
