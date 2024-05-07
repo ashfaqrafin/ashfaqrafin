@@ -1,8 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a **Computer Science enthusiast** hailing from the beautiful country of Bangladesh 🇧🇩.
-Currently, I'm broadening my horizons and honing my skills at **Brac University**, where the
-world of programming and technology unfolds before me 💻.
+Currently, I'm broadening my horizons and honing my skills at **Brac University**.
 My passion lies in **learning new skills** and **creating innovative solutions**. I believe in
 the power of technology to change the world, and I'm excited to be a part of this journey 🚀.
 
@@ -33,7 +32,11 @@ the power of technology to change the world, and I'm excited to be a part of thi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 12 mins    █████████████████████████   100.00 %
+C++      9 hrs 8 mins    ██████████████████████▓░░   90.64 %
+Other    21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Python   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+TOML     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
