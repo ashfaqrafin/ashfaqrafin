@@ -15,17 +15,16 @@ the power of technology to change the world, and I'm excited to be a part of thi
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashfaqrafin#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashfaqrafin#gh-dark-mode-only)
-
-<!-- &nbsp;&nbsp;
-[![website](./img/codeforces-light.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
-[![website](./img/codeforces-dark.svg)](https://codeforces.com/profile/ashfaqrafin#gh-dark-mode-only) -->
-
 &nbsp;&nbsp;
 [![website](./img/kaggle-light.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-light-mode-only)
 [![website](./img/kaggle-dark.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/leetcode-light.svg)](https://leetcode.com/ashfaqrafin#gh-light-mode-only)
 [![website](./img/leetcode-dark.svg)](https://leetcode.com/ashfaqrafin#gh-dark-mode-only)
+
+<!-- &nbsp;&nbsp;
+[![website](./img/codeforces-light.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
+[![website](./img/codeforces-dark.svg)](https://codeforces.com/profile/ashfaqrafin#gh-dark-mode-only) -->
 
 #### Coding Stats
 
