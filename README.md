@@ -30,11 +30,11 @@ the power of technology to change the world, and I'm excited to be a part of thi
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 56 mins   █████████████▒░░░░░░░░░░░   52.95 %
-JavaScript   1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Lua          1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+C++          4 hrs 32 mins   ██████████████░░░░░░░░░░░   55.93 %
+JavaScript   1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Lua          1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
