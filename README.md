@@ -30,9 +30,10 @@ the power of technology to change the world, and I'm excited to be a part of thi
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     7 mins          █████████████████▓░░░░░░░   71.24 %
-Other   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-C++     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+tmux    1 hr 1 min      █████████████████████▒░░░   85.16 %
+Other   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+C++     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
