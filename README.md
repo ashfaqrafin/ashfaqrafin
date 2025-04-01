@@ -4,6 +4,7 @@ I'm a **Computer Science enthusiast** hailing from the beautiful country of Bang
 Currently, I'm broadening my horizons and honing my skills at **Brac University**.
 My passion lies in **learning new skills** and **creating innovative solutions**. I believe in
 the power of technology to change the world, and I'm excited to be a part of this journey 🚀.
+🔍 Economics × Computer Science double major | Exploring the intersection of markets and algorithms | 2nd year student with a passion for data-driven decision making | Building tools that make economic concepts tangible through code | Open to collaboration on fintech/econometrics projects
 
 ### Connect with me:
 
