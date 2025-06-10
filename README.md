@@ -35,6 +35,8 @@ gitignore     0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_EDITORS-->
+<!--END_SECTION:SHOW_EDITORS-->
 
 #### Github Stats
 
