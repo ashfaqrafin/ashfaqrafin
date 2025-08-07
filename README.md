@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🔍 Economics × Computer Science double major | Exploring the intersection of markets and algorithms | 2nd year student with a passion for data-driven decision making | Building tools that make economic concepts tangible through code | Open to collaboration on fintech/econometrics projects
+🔍 Economics × Computer Science double major | Believes in collective ownership of the means of production... and also collective code ownership . ✯☭ .🏳️‍🌈💥 ╾━╤デ╦︻ඞ. 
 
 ### Connect with me:
 
