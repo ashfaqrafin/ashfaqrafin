@@ -27,7 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+conf         11 mins         █████████████████████▒░░░   85.36 %
+C++          1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Public Key   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
