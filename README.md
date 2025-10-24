@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Groovy            14 mins         ██████████████████▓░░░░░░   74.33 %
+Markdown          4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
