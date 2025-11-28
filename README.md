@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   1 hr 28 mins    ██████████▓░░░░░░░░░░░░░░   43.21 %
-Yacc          1 hr 19 mins    █████████▓░░░░░░░░░░░░░░░   38.40 %
-Bash          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-C             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Solidity      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
