@@ -33,7 +33,7 @@ C++    7 mins                ███▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+<!--
 #### Github Stats
 
 <!--
@@ -46,3 +46,4 @@ C++    7 mins                ███▓░░░░░░░░░░░░░
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaqrafin&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </a>
+-->
