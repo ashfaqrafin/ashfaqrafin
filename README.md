@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🔍 Economics × Computer Science double major | Believes in collective ownership of the means of production... and also collective code ownership . ✯☭ ☭🗿 .▄︻デ══━一💥🇺🇸🇪🇺🇮🇱💥一━══テ︻▄. 
+🔍 Economics × Computer Science double major | Believes in collective ownership of the means of production... and also collective code ownership . ✯☭ ☭🗿 .
 
 ### Connect with me:
 
@@ -49,4 +49,5 @@ JavaScript   7 mins                █░░░░░░░░░░░░░░
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaqrafin&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </a>
+▄︻デ══━一💥🇺🇸🇪🇺🇮🇱💥一━══テ︻▄. 
 -->
