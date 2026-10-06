@@ -27,7 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash    16 mins               ██████████████▒░░░░░░░░░░   57.66 %
+TeX     9 mins                ████████▒░░░░░░░░░░░░░░░░   33.14 %
+Lua     1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Other   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
