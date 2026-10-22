@@ -1,28 +1,33 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Ashfaq Khan Rafin</h1>
 
-🔍 Economics × Computer Science double major | Believes in collective ownership of the means of production... and also collective code ownership . ✯☭ ☭🗿 .
+<p align="center">
+  <em>Computer Science × Economics</em> &nbsp;·&nbsp; BRAC University &nbsp;·&nbsp; Dhaka, Bangladesh
+</p>
 
-### Connect with me:
+<p align="center">
+  <a href="https://ashfaqrafin.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/ashfaqrafin">Twitter</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/ashfaqrafin">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/ashfaqkhanrafin">Kaggle</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/ashfaqrafin">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/ashfaqrafin">Codeforces</a>
+</p>
 
-[![website](./img/portfolio-light.svg)](https://ashfaqrafin.vercel.app#gh-light-mode-only)
-[![website](./img/portfolio-dark.svg)](https://ashfaqrafin.vercel.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ashfaqrafin#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ashfaqrafin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashfaqrafin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashfaqrafin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/kaggle-light.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-light-mode-only)
-[![website](./img/kaggle-dark.svg)](https://www.kaggle.com/ashfaqkhanrafin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/leetcode-light.svg)](https://leetcode.com/ashfaqrafin#gh-light-mode-only)
-[![website](./img/leetcode-dark.svg)](https://leetcode.com/ashfaqrafin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/codeforces-light.svg)](https://codeforces.com/profile/ashfaqrafin#gh-light-mode-only)
-[![website](./img/codeforces-dark.svg)](https://codeforces.com/profile/ashfaqrafin#gh-dark-mode-only)
+<p align="center">
+  <img src="./img/caramelldansen.svg" alt="Three ASCII girls doing the Caramelldansen" width="100%">
+</p>
 
-#### Coding Stats
+### about
+
+I'm a junior studying computer science and economics, two fields that keep asking the same question from different ends: who gets what, and why. I don't just want to write better code; I want to code a more equitable world.
+
+I believe in collective ownership of the means of production, and of the codebase. ☭
+
+### toolbox
+
+TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Python &nbsp;·&nbsp; Bash &nbsp;·&nbsp; Neovim
+
+### this week in code
 
 <!--START_SECTION:waka-->
 
@@ -35,6 +40,10 @@ Image (svg)   30 mins               █▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <sub>from each according to their ability, to each according to their pull requests</sub>
+</p>
 
 <!--
 #### Github Stats

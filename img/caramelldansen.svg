@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" xml:space="preserve" role="img" aria-label="Three ASCII girls doing the Caramelldansen in a terminal window">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;white-space:pre}
+.d{font-size:18px;font-weight:600}
+.f{opacity:0;animation:frame 0.72s step-end infinite}
+.f0{animation-delay:0.00s}
+.f1{animation-delay:0.18s}
+.f2{animation-delay:0.36s}
+.f3{animation-delay:0.54s}
+@keyframes frame{0%{opacity:1}25%{opacity:0}}
+.flash{animation:flash 1.44s step-end infinite}
+@keyframes flash{0%{fill:#ff7eb6}25%{fill:#79c0ff}50%{fill:#ffd866}75%{fill:#7ee787}}
+.n{font-size:20px;opacity:0;animation:note 2.8s ease-out infinite}
+@keyframes note{0%{opacity:0;transform:translate(0,0)}15%{opacity:.9}100%{opacity:0;transform:translate(10px,-46px)}}
+.cur{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.f0{opacity:1}.n{opacity:.6}}
+</style>
+<rect x=".5" y=".5" width="799" height="289" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect class="flash" x="1" y="30" width="798" height="259" rx="9" fill="#ff7eb6" fill-opacity=".07"/>
+<path d="M1 30V11A10 10 0 0 1 11 1H789A10 10 0 0 1 799 11V30Z" fill="#161b22"/>
+<line x1="1" y1="30" x2="799" y2="30" stroke="#30363d"/>
+<circle cx="18" cy="15.5" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="15.5" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="15.5" r="6" fill="#27c93f"/>
+<text x="400.0" y="20" text-anchor="middle" font-size="12" fill="#8b949e">ashfaqrafin@github: ~/caramelldansen</text>
+<text x="20" y="60" font-size="14"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> ./caramelldansen --girls=3 --loop <tspan class="cur">█</tspan></tspan></text>
+<text class="d f f0" fill="#ff7eb6">
+<tspan x="167.8" y="107">   )     (</tspan>
+<tspan x="167.8" y="128">   |.---.|</tspan>
+<tspan x="167.8" y="149">   \(^o^)/</tspan>
+<tspan x="167.8" y="170">    |   |</tspan>
+<tspan x="167.8" y="191">   /   /</tspan>
+<tspan x="167.8" y="212">  /_____\</tspan>
+<tspan x="167.8" y="233">   \   \</tspan>
+<tspan x="167.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f1" fill="#ff7eb6">
+<tspan x="167.8" y="102">   (     )</tspan>
+<tspan x="167.8" y="123">   |.---.|</tspan>
+<tspan x="167.8" y="144">   \(^o^)/</tspan>
+<tspan x="167.8" y="165">    |   |</tspan>
+<tspan x="167.8" y="186">   /     \</tspan>
+<tspan x="167.8" y="207">  /_______\</tspan>
+<tspan x="167.8" y="228">    |   |</tspan>
+<tspan x="167.8" y="249">    ^   ^</tspan>
+</text>
+<text class="d f f2" fill="#ff7eb6">
+<tspan x="167.8" y="107">   )     (</tspan>
+<tspan x="167.8" y="128">   |.---.|</tspan>
+<tspan x="167.8" y="149">   \(^o^)/</tspan>
+<tspan x="167.8" y="170">    |   |</tspan>
+<tspan x="167.8" y="191">     \   \</tspan>
+<tspan x="167.8" y="212">    /_____\</tspan>
+<tspan x="167.8" y="233">     /   /</tspan>
+<tspan x="167.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f3" fill="#ff7eb6">
+<tspan x="167.8" y="102">   (     )</tspan>
+<tspan x="167.8" y="123">   |.---.|</tspan>
+<tspan x="167.8" y="144">   \(^o^)/</tspan>
+<tspan x="167.8" y="165">    |   |</tspan>
+<tspan x="167.8" y="186">   /     \</tspan>
+<tspan x="167.8" y="207">  /_______\</tspan>
+<tspan x="167.8" y="228">    |   |</tspan>
+<tspan x="167.8" y="249">    ^   ^</tspan>
+</text>
+<text class="d f f0" fill="#79c0ff">
+<tspan x="329.8" y="107">   )     (</tspan>
+<tspan x="329.8" y="128">   |.~~~.|</tspan>
+<tspan x="329.8" y="149">   \(^w^)/</tspan>
+<tspan x="329.8" y="170">    |   |</tspan>
+<tspan x="329.8" y="191">   /   /</tspan>
+<tspan x="329.8" y="212">  /_____\</tspan>
+<tspan x="329.8" y="233">   \   \</tspan>
+<tspan x="329.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f1" fill="#79c0ff">
+<tspan x="329.8" y="102">   (     )</tspan>
+<tspan x="329.8" y="123">   |.~~~.|</tspan>
+<tspan x="329.8" y="144">   \(^w^)/</tspan>
+<tspan x="329.8" y="165">    |   |</tspan>
+<tspan x="329.8" y="186">   /     \</tspan>
+<tspan x="329.8" y="207">  /_______\</tspan>
+<tspan x="329.8" y="228">    |   |</tspan>
+<tspan x="329.8" y="249">    ^   ^</tspan>
+</text>
+<text class="d f f2" fill="#79c0ff">
+<tspan x="329.8" y="107">   )     (</tspan>
+<tspan x="329.8" y="128">   |.~~~.|</tspan>
+<tspan x="329.8" y="149">   \(^w^)/</tspan>
+<tspan x="329.8" y="170">    |   |</tspan>
+<tspan x="329.8" y="191">     \   \</tspan>
+<tspan x="329.8" y="212">    /_____\</tspan>
+<tspan x="329.8" y="233">     /   /</tspan>
+<tspan x="329.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f3" fill="#79c0ff">
+<tspan x="329.8" y="102">   (     )</tspan>
+<tspan x="329.8" y="123">   |.~~~.|</tspan>
+<tspan x="329.8" y="144">   \(^w^)/</tspan>
+<tspan x="329.8" y="165">    |   |</tspan>
+<tspan x="329.8" y="186">   /     \</tspan>
+<tspan x="329.8" y="207">  /_______\</tspan>
+<tspan x="329.8" y="228">    |   |</tspan>
+<tspan x="329.8" y="249">    ^   ^</tspan>
+</text>
+<text class="d f f0" fill="#ffd866">
+<tspan x="491.8" y="107">   )     (</tspan>
+<tspan x="491.8" y="128">   |.-*-.|</tspan>
+<tspan x="491.8" y="149">   \(^v^)/</tspan>
+<tspan x="491.8" y="170">    |   |</tspan>
+<tspan x="491.8" y="191">   /   /</tspan>
+<tspan x="491.8" y="212">  /_____\</tspan>
+<tspan x="491.8" y="233">   \   \</tspan>
+<tspan x="491.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f1" fill="#ffd866">
+<tspan x="491.8" y="102">   (     )</tspan>
+<tspan x="491.8" y="123">   |.-*-.|</tspan>
+<tspan x="491.8" y="144">   \(^v^)/</tspan>
+<tspan x="491.8" y="165">    |   |</tspan>
+<tspan x="491.8" y="186">   /     \</tspan>
+<tspan x="491.8" y="207">  /_______\</tspan>
+<tspan x="491.8" y="228">    |   |</tspan>
+<tspan x="491.8" y="249">    ^   ^</tspan>
+</text>
+<text class="d f f2" fill="#ffd866">
+<tspan x="491.8" y="107">   )     (</tspan>
+<tspan x="491.8" y="128">   |.-*-.|</tspan>
+<tspan x="491.8" y="149">   \(^v^)/</tspan>
+<tspan x="491.8" y="170">    |   |</tspan>
+<tspan x="491.8" y="191">     \   \</tspan>
+<tspan x="491.8" y="212">    /_____\</tspan>
+<tspan x="491.8" y="233">     /   /</tspan>
+<tspan x="491.8" y="254">    ^   ^</tspan>
+</text>
+<text class="d f f3" fill="#ffd866">
+<tspan x="491.8" y="102">   (     )</tspan>
+<tspan x="491.8" y="123">   |.-*-.|</tspan>
+<tspan x="491.8" y="144">   \(^v^)/</tspan>
+<tspan x="491.8" y="165">    |   |</tspan>
+<tspan x="491.8" y="186">   /     \</tspan>
+<tspan x="491.8" y="207">  /_______\</tspan>
+<tspan x="491.8" y="228">    |   |</tspan>
+<tspan x="491.8" y="249">    ^   ^</tspan>
+</text>
+<text class="n" x="150" y="200" fill="#ff7eb6" style="animation-delay:0.0s">♪</text>
+<text class="n" x="300" y="150" fill="#79c0ff" style="animation-delay:0.9s">♫</text>
+<text class="n" x="480" y="210" fill="#ffd866" style="animation-delay:1.7s">♪</text>
+<text class="n" x="640" y="160" fill="#ff7eb6" style="animation-delay:0.4s">♫</text>
+<text class="n" x="395" y="120" fill="#7ee787" style="animation-delay:2.2s">♪</text>
+<text class="n" x="110" y="130" fill="#ffd866" style="animation-delay:1.3s">♫</text>
+<text class="n" x="690" y="225" fill="#79c0ff" style="animation-delay:2.0s">♪</text>
+<text x="780" y="276" text-anchor="end" font-size="12" fill="#6e7681">♪ caramelldansen · 165 bpm</text>
+</svg>
