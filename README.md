@@ -1,7 +1,7 @@
 <h1 align="center">Ashfaq Khan Rafin</h1>
 
 <p align="center">
-  <em>Computer Science × Economics</em> &nbsp;·&nbsp; BRAC University &nbsp;·&nbsp; Dhaka, Bangladesh
+  <em>Computer Science × Economics × Political Science</em> &nbsp;·&nbsp; BRAC University &nbsp;·&nbsp; Dhaka, Bangladesh
 </p>
 
 <p align="center">
