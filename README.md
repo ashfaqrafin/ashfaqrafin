@@ -25,7 +25,7 @@ I believe in collective ownership of the means of production, and of the codebas
 
 ### toolbox
 
-TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Python &nbsp;·&nbsp; Bash &nbsp;·&nbsp; Neovim
+TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; GO &nbsp;·&nbsp; Python &nbsp;·&nbsp; Bash &nbsp;·&nbsp; Neovim
 
 ### this week in code
 
