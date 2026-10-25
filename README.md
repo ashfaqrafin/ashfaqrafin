@@ -19,7 +19,7 @@
 
 ### about
 
-I'm a junior studying computer science and economics, two fields that keep asking the same question from different ends: who gets what, and why. I don't just want to write better code; I want to code a more equitable world.
+I'm a senior studying computer science and economics, two fields that keep asking the same question from different ends: who gets what, and why. I don't just want to write better code; I want to code a more equitable world.
 
 I believe in collective ownership of the means of production, and of the codebase. ☭
 
