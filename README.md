@@ -32,11 +32,11 @@ TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Prisma &nb
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      4 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-Markdown        2 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Other           2 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Bash            1 hr 58 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Rust            1 hr 52 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+TypeScript      4 hrs 37 mins         ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+Markdown        2 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Rust            1 hr 52 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Other           1 hr 44 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+JavaScript      54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
