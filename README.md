@@ -14,12 +14,16 @@
 </p>
 
 <p align="center">
-  <img src="./img/caramelldansen.svg" alt="Three ASCII girls doing the Caramelldansen" width="100%">
+  <img src="./img/revolution.svg" alt="A terminal runs sudo chown on the means of production: a red flag rises as three ASCII workers march in with raised fists" width="100%">
 </p>
 
 ### about
 
-I'm a junior studying computer science and economics, two fields that keep asking the same question from different ends: who gets what, and why. I don't just want to write better code; I want to code a more equitable world.
+I'm in my final year of computer science and economics, two fields that keep asking the same question from different ends: who gets what, and why?
+
+My main interest is **distributed systems**, the most communist corner of computer science. No single node owns the data, no leader rules forever, and when a comrade crashes, the rest of the cluster picks up its work. Raft holds elections, Paxos builds consensus, gossip protocols are basically union organizing, and Byzantine fault tolerance is planning for traitors in the ranks.
+
+The hard problems there are social ones: getting unreliable peers to agree, sharing the load fairly, and staying up when parts of the system fail. Economics wrestles with the same three. I don't just want to write better code; I want to build systems that are fault-tolerant *and* fair, in the cluster and in the world.
 
 I believe in collective ownership of the means of production, and of the codebase. ☭
 
