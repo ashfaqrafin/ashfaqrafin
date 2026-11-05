@@ -1,7 +1,7 @@
 <h1 align="center">Ashfaq Khan Rafin</h1>
 
 <p align="center">
-  <em>Computer Science × Economics</em> &nbsp;·&nbsp; BRAC University &nbsp;·&nbsp; Dhaka, Bangladesh
+  <em>Computer Science × Economics × Political Science</em> &nbsp;·&nbsp; BRAC University &nbsp;·&nbsp; Dhaka, Bangladesh
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./img/revolution.svg" alt="A terminal runs sudo chown on the means of production: a red flag rises as three ASCII workers march in with raised fists" width="100%">
+  <img src="./img/unite.svg" alt="A GitHub contribution graph: under capitalism a few days hoard all the green, under communism it is shared equally, then the graph turns red and spells UNITE!" width="100%">
 </p>
 
 ### about
