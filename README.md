@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="./img/unite.svg" alt="A GitHub contribution graph: under capitalism a few days hoard all the green, under communism it is shared equally, then the graph turns red and spells UNITE!" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/cluster-dark.svg">
+    <img src="./img/cluster-light.svg" alt="Five worker nodes send all their value to a central owner node, which crashes as a single point of failure; the hoarded value bursts back to the workers, they connect to each other directly, and the fully connected network forms a red star. Workers of the world, unite!" width="100%">
+  </picture>
 </p>
 
 ### about
