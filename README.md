@@ -15,8 +15,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/cluster-dark.svg">
-    <img src="./img/cluster-light.svg" alt="Five worker nodes send all their value to a central owner node, which crashes as a single point of failure; the hoarded value bursts back to the workers, they connect to each other directly, and the fully connected network forms a red star. Workers of the world, unite!" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/chalkboard-dark.svg">
+    <img src="./img/chalkboard-light.svg" alt="A chalkboard lecture. Distributed systems 101: an owner with five workers wired to it is a single point of failure, and when it crashes everyone goes down. After the board is erased: connect every worker, and the links between them form a red star. K5 equals a star, no single point of failure, a comrade crashes and the rest carry on. Workers of the world, unite!" width="100%">
   </picture>
 </p>
 
