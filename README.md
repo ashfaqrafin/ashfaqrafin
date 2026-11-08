@@ -39,11 +39,11 @@ C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Prisma &nbsp;·
 <!--START_SECTION:waka-->
 
 ```txt
-C++           6 hrs 56 mins         █████████▒░░░░░░░░░░░░░░░   37.33 %
-TypeScript    4 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Markdown      3 hrs 25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-TeX           59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Other         45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+C++           8 hrs 39 mins         ██████████░░░░░░░░░░░░░░░   40.21 %
+TypeScript    4 hrs 37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Markdown      3 hrs 57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+TeX           1 hr 12 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Other         38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
